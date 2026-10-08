@@ -1,0 +1,12 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+# Datasets
+data/augmented/
+data/datasets/
+data/external_test/
+
+# Artefatos de treinamento
+runs/
